@@ -12,7 +12,7 @@ header-includes:
 - \usepackage{pdfpages}
 ---
 
-\includepdf[pages=-, pagecommand={}]{PDF/MSProfileR_tutorial_V1.pdf}
+\includepdf[pages=-, pagecommand={}]{PDF/MS-profileR_tutorial_V1.0.pdf}
 
 ```{r, include=FALSE, echo=FALSE}
 #devtools::build_rmd("vignettes/MS-profileR_tutorial_V1.0.Rmd")
