@@ -32,4 +32,4 @@ library(MSProfileR)
 runMSProfileR()
 ```
 
-A tutorial on how to use the application is available [here](https://github.com/Almeras-Lionel/MSProfileR/raw/main/vignettes/PDF/MSProfileR_tutorial_V1.pdf).
+A tutorial on how to use the application is available [here](https://github.com/Almeras-Lionel/MSProfileR/raw/main/vignettes/PDF/MS-profileR_tutorial_V1.0.pdf).
